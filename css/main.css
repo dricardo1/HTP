@@ -165,6 +165,19 @@ p, .ulStyle { font-family: 'Lato', sans-serif !important; font-size: 1.5em !impo
     width: 700px;
 }
 .img-small {
+    height: 38px;
+    width: 36px;
+    margin-top: 5px;
+}
+.bird {
+    height: 88px;
+    width: 48px;
+    margin: 5px;
+    float: right;
+}
+.frog {
     height: 30px;
-    width: 10px;
+    width: 50px;
+    margin: 10px 5px;
+    float: left;
 }
